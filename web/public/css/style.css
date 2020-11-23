@@ -1,0 +1,21 @@
+header{
+  width: 100%;
+  height: 200px;
+  background-color: #ddd
+}
+footer{
+  width: 100%;
+  height: 500px;
+  background-color: #ddd
+}
+.container_telefon{
+  min-height: 1000px
+}
+.table{
+  width: 80% !important;
+  margin: 0 auto;
+  margin-top: 40px
+}
+.container{
+  min-height: 1000px
+}
